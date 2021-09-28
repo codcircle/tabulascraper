@@ -5,7 +5,7 @@ from html.parser import HTMLParser
 from datetime import datetime
 
 # variables
-URL = 'http://kgazugang:HalloFasanerie@tabula.kronberg-gymnasium.de/secure/export.html?'
+URL = 'YOUR_URL'
 now = datetime.now()
 date = now.strftime("%d_%m_%Y %H_%M_%S")
 
